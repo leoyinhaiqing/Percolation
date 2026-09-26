@@ -1,0 +1,11 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# External datasets (see README: download house-bills separately)
+*.zip
